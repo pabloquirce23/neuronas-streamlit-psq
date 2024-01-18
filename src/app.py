@@ -1,6 +1,4 @@
 import streamlit as st
-import pandas as pd
-import joblib
 
 st.image("https://images.theconversation.com/files/339172/original/file-20200602-133875-1u1teus.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip", width=500)
 
